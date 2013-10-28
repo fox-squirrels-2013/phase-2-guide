@@ -4,9 +4,9 @@
 ####Monday:
 * 9-10 AM - Welcome new Phase to DBC - group teach in. NO NEW PHASE 1!
 * 10:00 lecture : Phase Intro
-* 10:00 - 12:30 Solo on [thing-o challenge]()
+* 10:00 - 12:30 Solo on [thing-o challenge](https://github.com/fox-squirrels-2013/CHALLENGE_thing-o)
 * 2:00 Lecture 
-* 3:00 - 7:00 Solo and Pair on [thing-o challenge]()
+* 3:00 - 7:00 Solo and Pair on [thing-o challenge](https://github.com/fox-squirrels-2013/CHALLENGE_thing-o)
 * 5:30 : Standup
 * 7:00 : Journal.
 * 7:30 - LATE : Optimize your learning
@@ -14,7 +14,7 @@
 ####Tuesday
 * 9:00 - 10:30 EE with Karim - Sexism
 * 11:00 - 12:30 Pair on Challenge
-* 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
+* 2:00 - 2:45 Lecture: Testing by Myles.
 * 3:00 - 7:00 Group Project
 * 6:00 - Mentor Night
 
