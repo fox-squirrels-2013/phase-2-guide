@@ -1,5 +1,5 @@
 # Resources
-
+Add more as you see fit and fix broken links (via pull request!)
 ## Week 1
 * [Ruby Web Apps and Sinatra](#ruby-web-apps-and-sinatra)
 * [Testing](#testing)
@@ -14,11 +14,13 @@
 * [Front End Engineering](#front-end-engineering)
 
 ## Week 3
+* Check back soon
 
-## Soft Skills
-1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
-1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
+## Extras
+* [Developer](#developer)
+* [Computer Setup](#computer-setup)
 
+# Links
 ### Ruby Web Apps
 ####Sinatra
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/), :level_1, :tutorial
@@ -110,7 +112,15 @@
 1. [Debug with Node](http://nodejs.org/api/debugger.html)
 
 
-## Front End Engineering
-* So you want to be a front end engineer? -
+
+
+
+### Developer
+1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
+1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
+1. So you want to be a front end engineer? -
   [Slides](https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer)
   [Video](http://www.youtube.com/watch?v=Lsg84NtJbmI)
+
+### Computer Setup
+* [Laptop Setup Guide](https://github.com/Devbootcamp/laptop-guide/blob/master/guide.md)

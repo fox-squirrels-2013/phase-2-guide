@@ -12,13 +12,12 @@ YAYYYYY!!!!
   * Guest must provide body when creating discussion
 * Guest may see list of discussions on home page
 
-
-## Release 3
+## Release 2
 * Guest may respond to discussion
   * Poster must provide body when responding to discussion
 * Guest may see responses in discussion
 
-## Release 4
+## Release 3
 * Guest may register as Poster with Username and Password
 * Only Posters may create discussions
 * Only Posters may post responses to discussions
