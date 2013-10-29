@@ -13,14 +13,14 @@
 
 ####Tuesday
 * 9:00 - 10:30 EE with Karim - Sexism
-* 11:00 - 12:30 Pair on Challenge
+* 10:00 - 12:30 Pair on [TDD Active Record](https://github.com/fox-squirrels-2013/CHALLENGE-tdd-activerecord)
 * 2:00 - 2:45 Lecture: Testing by Myles.
-* 3:00 - 7:00 Group Project
+* 3:00 - 7:00 [Group Project](week-1/group-projects.md) 
 * 6:00 - Mentor Night
 
 ####Wednesday
-* 9:00 EI - Introduction to Meditation
-* 9:30 - 11:30 Pair on Challenge
+* 9:00 EI - Mindfulness
+* 9:30 - 11:30 Pair on [TDD-Fun]()
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
@@ -29,7 +29,7 @@
 
 ####Thursday
 * 9:00 EI 
-* 9:30 - 12:30 Code Retreat
+* 9:30 - 12:30 [Better Forms]()
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
