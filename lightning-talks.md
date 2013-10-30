@@ -1,8 +1,7 @@
 # Lightning Talks
-
-[Instructions](#instuctions)
-[Talks Given](#talks)
-[Available Talks](#available-talks)
+* [Instructions](#instuctions)
+* [Talks Given](#talks)
+* [Available Talks](#available-talks)
 
 ##Instructions
 Lightning talks are 4~5 minute talks covering a topic or answering a question.
@@ -21,14 +20,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Talks
 ## Week 1:
 ###  Wednesday
-[Git Merge](lightning-talks/merge-by-nicole.md) : by Nicole
-[RESTful Routes](lightning-talks/restful-routes-by-travis.md) : by Travis
-[4 Elements of Design](lightning-talks/4-elements-of-simple-design.md) : by Louie
-[Rspec is Weird ](lightning-talks/expect-with-rspec.md) : by James
+* [Git Merge](lightning-talks/merge-by-nicole.md) : by Nicole
+* [RESTful Routes](lightning-talks/restful-routes-by-travis.md) : by Travis
+* [4 Elements of Design](lightning-talks/4-elements-of-simple-design.md) : by Louie
+* [Rspec is Weird ](lightning-talks/expect-with-rspec.md) : by James
 
 
 ### Thursday
-Ben Titcomb - What is the different ways to use the css position property?
+* Ben Titcomb - What is the different ways to use the css position property?
 
 ### Friday
 
