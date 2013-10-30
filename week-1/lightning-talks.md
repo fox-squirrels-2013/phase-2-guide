@@ -16,6 +16,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 
+Louie Perez - What are the 4 rules of simple design.
+
 ## Friday
 
 ## Available Talks
