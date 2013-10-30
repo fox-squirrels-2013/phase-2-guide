@@ -19,6 +19,7 @@ Add more as you see fit and fix broken links (via pull request!)
 ## Extras
 * [Developer](#developer)
 * [Computer Setup](#computer-setup)
+* [Git](#git)
 
 # Links
 ### Ruby Web Apps
@@ -124,3 +125,7 @@ Add more as you see fit and fix broken links (via pull request!)
 
 ### Computer Setup
 * [Laptop Setup Guide](https://github.com/Devbootcamp/laptop-guide/blob/master/guide.md)
+
+### Git
+* A fun [git tutorial](https://gist.github.com/abinoda/82c4be1579cb06c15f79)
+* Learn [git branching](http://pcottle.github.io/learnGitBranching/)
