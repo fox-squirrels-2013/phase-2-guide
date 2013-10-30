@@ -14,6 +14,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 Nicole: What are merge conflicts and how do I fix them?
+Tyler Olson: RESTful Routes
 
 ## Thursday
 Ben Titcomb - What is the different ways to use the css position property?
