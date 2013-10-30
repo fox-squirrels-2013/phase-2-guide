@@ -27,9 +27,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 [Rspec is Weird ](lightning-talks/expect-with-rspec.md) : by James
 
 
-## Thursday
+### Thursday
+Ben Titcomb - What is the different ways to use the css position property?
 
-## Friday
+### Friday
 
 ## Available Talks
 * What is the  arrange act assert pattern?
@@ -46,10 +47,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is red green refactor?
 * What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
-* What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
-* What is the different ways to use the css position property?
 * What makes a good test?
 * What is rack anyway?
 * What does 'semantic markup' mean?
