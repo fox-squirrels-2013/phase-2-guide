@@ -13,6 +13,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
+Nicole: What are merge conflicts and how do I fix them?
 
 ## Thursday
 Ben Titcomb - What is the different ways to use the css position property?
@@ -37,7 +38,6 @@ Louie Perez - What are the 4 rules of simple design.
 * What is red green refactor?
 * What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
-* What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
 * What makes a good test?
