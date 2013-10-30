@@ -15,6 +15,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 ## Thursday
+Ben Titcomb - What is the different ways to use the css position property?
+
 
 ## Friday
 
@@ -36,7 +38,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
-* What is the different ways to use the css position property?
 * What makes a good test?
 * What is rack anyway?
 * What does 'semantic markup' mean?
