@@ -32,6 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Tom - What is rack anyway?
 
 ### Friday
+* Miya - What is a code kata?
 
 ## Available Talks
 * What is the  arrange act assert pattern?
