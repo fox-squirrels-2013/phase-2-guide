@@ -29,6 +29,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Thursday
 * Ben Titcomb - What is the different ways to use the css position property?
 * vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
+* James - Dynamic Finders in Active Record
 
 ### Friday
 
