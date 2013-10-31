@@ -15,7 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
    day.
 3. Put your name in front of the talk title.
 4. Submit a pull request!
-5. Notes for given talks listed below. 
+5. Notes for given talks listed below.
 
 ## Talks
 ## Week 1:
@@ -36,6 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Friday
 * Miya - What is a code kata?
+* Garreth - Custom Methods
 
 ## Available Talks
 * What is the  arrange act assert pattern?
