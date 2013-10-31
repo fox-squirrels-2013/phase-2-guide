@@ -29,9 +29,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Thursday
 * Ben Titcomb - What is the different ways to use the css position property?
 * vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
+
 * Daniel Kimbel - What is the difference between abstraction and indirection?
 
+* Tom - What is rack anyway?
+
+
 ### Friday
+* Miya - What is a code kata?
 
 ## Available Talks
 * What is the  arrange act assert pattern?
@@ -50,7 +55,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * How can I inform the user when active record validations fail?
 * How do I use capybara to test sinatra?
 * What makes a good test?
-* What is rack anyway?
+
 * What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to heroku?
