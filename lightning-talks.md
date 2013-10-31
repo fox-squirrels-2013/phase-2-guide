@@ -32,6 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Mohit Ramchandani - How to learn about things you have no clue about?
 * Daniel Kimbel - What is the difference between abstraction and indirection?
 * Tom - What is rack anyway?
+* James - Dynamic Finders in Active Record
 
 ### Friday
 * Miya - What is a code kata?
