@@ -17,6 +17,7 @@ Nicole: What are merge conflicts and how do I fix them?
 
 ## Thursday
 Ben Titcomb - What is the different ways to use the css position property?
+Mohit Ramchandani - How to learn about things you have no clue about?
 
 
 Louie Perez - What are the 4 rules of simple design.
