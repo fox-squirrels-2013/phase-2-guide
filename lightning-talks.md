@@ -29,12 +29,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Thursday
 * [CSS Positioning](lightning-talks/positioning-with-css-by-ben.md) by Ben Titcomb
 * [Load Path](lightning-talks/load-path-by-vanessa.md) by Vanessa
-* [how-to-learn-by-mo](lightning-talks/) by Mohit Ramchandani
+* [How to Learn](lightning-talks/how-to-learn-by-mo.md) by Mohit Ramchandani
 * [Abstraction vs Indirection](lightning-talks/abstraction-vs-indirection-by-daniel.md) by Daniel Kimbel
 * [What is Rack](lightning-talks/what-is-rack-by-tom.md) by Tom 
 * [Entrepreneur](lightning-talks/entrepreneur-by-brantley.md) by Brantley
 * [Active Record Dynamic Finders](lightning-talks/ar-finders-by-james.md) by James 
-* [Fixed vs Growth Mindset](lightning-talks/fixed-mindest-vs-growth-mindset-by-sherif.md) by Sherif
+* [Fixed vs Growth Mindset](lightning-talks/fixed-mindset-vs-growth-mindset-by-sherif.md) by Sherif
 
 ### Friday
 * Miya - What is a code kata?
