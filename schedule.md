@@ -20,7 +20,7 @@
 
 ####Wednesday
 * 9:00 EI - Mindfulness
-* 9:30 - 11:30 Pair on [TDD-Fun]()
+* 9:30 - 11:30 Pair on [TDD-Fun](https://github.com/fox-squirrels-2013/hungry_boot)
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
@@ -29,7 +29,8 @@
 
 ####Thursday
 * 9:00 EI 
-* 9:30 - 12:30 [Better Forms]()
+* 9:30 - 12:30 Pair on 
+[Better Forms and Validations]()
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
