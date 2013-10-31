@@ -1,4 +1,4 @@
-## 10/30
+## 10/30/2013
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
