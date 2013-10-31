@@ -36,6 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Friday
 * Miya - What is a code kata?
+* Mike - Sinatra routes, forms, explanation and tie in.
 
 ## Available Talks
 * What is the  arrange act assert pattern?
