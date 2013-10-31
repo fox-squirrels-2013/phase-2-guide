@@ -29,6 +29,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Thursday
 * Ben Titcomb - What is the different ways to use the css position property?
 * vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
+* Daniel Kimbel - What is the difference between abstraction and indirection?
 
 ### Friday
 
@@ -48,7 +49,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
 * How do I use capybara to test sinatra?
-* What is the difference between abstraction and indirection?
 * What makes a good test?
 * What is rack anyway?
 * What does 'semantic markup' mean?
