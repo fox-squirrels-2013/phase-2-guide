@@ -30,7 +30,7 @@
 ####Thursday
 * 9:00 EI 
 * 9:30 - 12:30 Pair on 
-[Better Forms and Validations]()
+[Better Forms and Validations](https://github.com/fox-squirrels-2013/CHALLENGE-forms-and-users)
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
