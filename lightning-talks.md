@@ -31,6 +31,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
 
 ### Friday
+* Miya - What is a code kata?
 
 ## Available Talks
 * What is the  arrange act assert pattern?
