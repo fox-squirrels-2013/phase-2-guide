@@ -28,6 +28,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Thursday
 * Ben Titcomb - What is the different ways to use the css position property?
+* vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
 
 ### Friday
 
@@ -53,7 +54,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to heroku?
-* How can I use $LOAD\_PATH to avoid using require\_relative?
 * What are environment variables?
 * What is a code kata?
 * How can I use `let` and `context` to dry up my tests?
