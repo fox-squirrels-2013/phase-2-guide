@@ -39,6 +39,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Friday
 * Miya - What is a code kata?
 * Garreth - Custom Methods
+* Marion - What is the difference between GET and POST?
 
 ## Available Talks
 * What is the  arrange act assert pattern?
@@ -53,7 +54,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is red green refactor?
-* What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
 * How do I use capybara to test sinatra?
 * What makes a good test?
