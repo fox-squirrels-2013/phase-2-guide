@@ -1,3 +1,12 @@
+##10/31/2013
+
+| Coders Mindset              | Testing & TDD | Debugging  | Ruby Webapps             | ActiveRecord         | HTML & CSS |
+| --------------------------- | ------------- | ---------  | ------------------------ | -------------------- | ---------- |
+|   :+1: 6/8 :+1::+1: 1/8     |    :+1: 0/8   |  :+1: 3/8  |   :+1: 3/6 :+1::+1: 1/7  | :+1:4/8,             |  :+1: 4/6  |
+
+I learned some awesome Sinatra tricks today -- how to use a form to send a delete request, and (more importantly) how to use layout.erb to get global headers and footers onto your web app.
+
+
 ##10/30/2013
 
 | Coders Mindset | Testing & TDD | Debugging  | Ruby Webapps | ActiveRecord         | HTML & CSS |
