@@ -1,6 +1,6 @@
 # Fixed Mindset vs Growth Mindset
 
-* Work by Carol Dwep on how students learn.  Found groups would cluster into two groups based on how they reacted to confusion.
+* Work by Carol Dweck on how students learn.  Found groups would cluster into two groups based on how they reacted to confusion.
 
 * These groupings are not set in stone - they can vary based on how you are feeling (tired, hungry, etc.)
 
