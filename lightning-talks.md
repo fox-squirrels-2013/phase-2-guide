@@ -39,6 +39,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Friday
 * Miya - What is a code kata?
 * Garreth - Custom Methods
+* Lindsey - Website user interface design from a marketing perspective
 
 ## Available Talks
 * What is the  arrange act assert pattern?
