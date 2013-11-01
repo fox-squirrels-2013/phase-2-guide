@@ -39,6 +39,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Friday
 * Miya - What is a code kata?
 * Garreth - Custom Methods
+* Logan - The Importance of Smiling
 
 ## Available Talks
 * What is the  arrange act assert pattern?
