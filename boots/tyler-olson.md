@@ -3,6 +3,17 @@
 
 <h2>Phase 2 Week 1 Learning Objectives To Do/Learn:</h2>
 
+<h3>Tutorial &amp; Challenge Links</h3>
+<ul>
+	<li>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1.md</li>
+	<li>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/resources.md</li>
+	<li>Sinatra: RESTful CRUD - http://socrates.devbootcamp.com/challenges/395</li>
+	<li>Active Record: People Skills - http://socrates.devbootcamp.com/challenges/390</li>
+	<li>Sinatra: Authentication and Authorization - http://socrates.devbootcamp.com/challenges/391</li>
+	<li>CSS Layout: Simple Marketing Page - http://socrates.devbootcamp.com/challenges/392</li>
+	<li>Active Record and Sinatra: Propagating Validations - http://socrates.devbootcamp.com/challenges/398</li>
+</ul>
+
 <h3>Coders Mindset</h3>
 <p>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-objectives/coders-mindset.md</p>
 
