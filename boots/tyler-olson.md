@@ -48,27 +48,20 @@
 
 <p>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-objectives/debugging.md</p>
 
-I read error messages, and can find where in my code the error was raised
-I create hypothesis about why the code is broken before I try to fix it.
-I have a structured approach to proving my hypothesis'
-I have a structured approach to managing my time when debugging
-I can identify the boundaries between abstraction layers when debugging
-I triangulate when debugging
-I use the chrome console to inspect elements and network traffic.
-I can use the ruby debugger to inspect program state
-:+1::+1:
+<ul>
+	<li>I can identify the boundaries between abstraction layers when debugging</li>
+	<li>I triangulate when debugging</li>
+	<li>I use the chrome console to inspect elements and network traffic.</li>
+	<li>I can use the ruby debugger to inspect program state</li>
+</ul>
 
-I create several hypothesis' about problems before trying to fix it
-I can leverage the boundaries between abstraction layers when debugging
-I can use rspec to test my hypothesis
-I actively look for ways to speed up my feedback loop
-I context switch between big picture/little picture when debugging
-When I ask for help I clearly describe the problem I'm trying to solve
-I can step through code in the ruby debugger
-My judgement sometimes keeps me from going down rabbit holes
-:+1::+1::+1:
+<ul>
+	<li>I can leverage the boundaries between abstraction layers when debugging</li>
+	<li>I can use rspec to test my hypothesis</li>
+	<li>I can step through code in the ruby debugger</li>
+</ul>
 
-I create and throw away branches for each hypothesis as I debug
-My judgement frequently keeps me from going down rabbit holes
-I quickly find the place in my code where errors are raised
-I almost solely rely on rspec framework when debugging
+<ul>
+	<li>I almost solely rely on rspec framework when debugging</li>
+</ul>
+
