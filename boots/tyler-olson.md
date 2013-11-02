@@ -81,3 +81,37 @@
 	<li>I've deployed a rack compliant app to a hosting service other than heroku</li>
 	<li>I've written a basic HTTP Server in ruby</li>
 </ul>
+
+<h3>Activerecord</h3>
+
+<p>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-objectives/activerecord.md</p>
+
+<ul>
+	<li>I've written custom validations</li>
+	<li>I've used callbacks</li>
+	<li>I test drive my models with the shoulda-matchers</li>
+</ul>
+
+<ul>
+	<li>I use scopes to keep where's out of my code.</li>
+	<li>I have used another ORM (i.e. datamapper or sequel)</li>
+	<li>I've written a simple ORM from scratch</li>
+</ul>
+
+<h3>HTML and CSS</h3>
+
+<p>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-objectives/html-and-css.md</p>
+<ul>
+	<li>I can clearly explain the different css box models</li>
+</ul>
+
+<ul>
+	<li>I've applied styles based on pseudo-selectors and/or child and sibling selectors</li>
+	<li>I've used CSS3 transitions</li>
+	<li>I'm comfortable using the different css position and display formats.</li>
+</ul>
+
+<ul>
+	<li>I've written my own grid layout system</li>
+	<li>I've used LESS or SASS to DRY up my CSS</li>
+</ul>	
