@@ -15,7 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
    day.
 3. Put your name in front of the talk title.
 4. Submit a pull request!
-5. Notes for given talks listed below. 
+5. Notes for given talks listed below.
 
 ## Talks
 ## Week 1:
@@ -27,11 +27,20 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ### Thursday
-* Ben Titcomb - What is the different ways to use the css position property?
-* vanessa - How can I use $LOAD\_PATH to avoid using require\_relative?
-* Tom - What is rack anyway?
+* [CSS Positioning](lightning-talks/positioning-with-css-by-ben.md) by Ben Titcomb
+* [Load Path](lightning-talks/load-path-by-vanessa.md) by Vanessa
+* [How to Learn](lightning-talks/how-to-learn-by-mo.md) by Mohit Ramchandani
+* [Abstraction vs Indirection](lightning-talks/abstraction-vs-indirection-by-daniel.md) by Daniel Kimbel
+* [What is Rack](lightning-talks/what-is-rack-by-tom.md) by Tom 
+* [Entrepreneur](lightning-talks/entrepreneur-by-brantley.md) by Brantley
+* [Active Record Dynamic Finders](lightning-talks/ar-finders-by-james.md) by James 
+* [Fixed vs Growth Mindset](lightning-talks/fixed-mindset-vs-growth-mindset-by-sherif.md) by Sherif
 
 ### Friday
+* Miya - What is a code kata?
+* Garreth - Custom Methods
+* Logan - The Importance of Smiling
+* Marc - Habits
 
 ## Available Talks
 * What is the  arrange act assert pattern?
@@ -49,7 +58,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
 * How do I use capybara to test sinatra?
-* What is the difference between abstraction and indirection?
 * What makes a good test?
 
 * What does 'semantic markup' mean?
