@@ -33,3 +33,20 @@ Today, I learned quite a bit more about sessions. I had looked into them last ni
 offended when the strongest members of our groups broke off. My group thought it was a trick question, so we hadn't 
 seriously debated it.
 
+### 2013/10/31
+
+| Coders Mindset | Testing & TDD    | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ---------------- | --------- | ------------ | ------------ | ---------- |
+| :thumbsup: 8/8 | :thumbsup: 9/10 | :thumbsup: 7/8 | :thumbsup: 5/6 | :thumbsup: 8/8 | :thumbsup: 6/6 |
+| :thumbsup: :thumbsup: 8/8 | :thumbsup: :thumbsup: 7/10 | :thumbsup: :thumbsup: 5/8 | :thumbsup: :thumbsup: 2/7 | :thumbsup: :thumbsup: 2/4 | :thumbsup: :thumbsup: 4/4 |
+| :thumbsup: :thumbsup: :thumbsup: 4/5 | :thumbsup: :thumbsup: :thumbsup: 1.75/4 | :thumbsup: :thumbsup: :thumbsup: 1/4 | :thumbsup: :thumbsup: :thumbsup: 0/3 | :thumbsup: :thumbsup: :thumbsup: 0/3 | :thumbsup: :thumbsup: :thumbsup: 3/3 |
+
+Today was odd. First, my pair and I did the HTML/CSS challenge, which wasn't all that difficult, though I was surprised my
+pair didn't know as much as I thought. However, he caught on really quickly, though I had to pause to explain things like
+the box model, as well as some of the CSS3 tricks. I did learn quite a bit more about animations, though, and managed to
+make a seizure-inducing web page. My pair even found a neat JavaScript trick, because he wanted the animations to loop
+over and over again. I also found that I really suck at making my own responsive two-column layout, though we were able
+to make an odd Frankenstein responsive/fixed hybrid that broke down on anything that wasn't the DBC monitors. 
+In the afternoon, we found how to use BCrypt (I apparently wasn't including the file in my test code, which made me think 
+that I sucked at it), and also discovered the joys of merging two files at the same time. (Just FYI, never do that, 
+especially if the project is due in 5 minutes.) Now, though, we have a neat page. 
