@@ -65,3 +65,19 @@
 	<li>I almost solely rely on rspec framework when debugging</li>
 </ul>
 
+<h3>Ruby Webapps</h3>
+
+<p>https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-objectives/ruby-webapps.md</p>
+
+<ul>
+	<li>I can explain the different parts of a URI</li>
+	<li>I've configured my app to use different databases in test and development</li>
+	<li>I've used bcrypt to encrypt passwords to keep them secret even from people who have access to the database.</li>
+	<li>I've used partials and passed them local variables</li>
+	<li>I've written a program that uses Socket^ to communicate between two computers on a local network</li>
+</ul>
+
+<ul>
+	<li>I've deployed a rack compliant app to a hosting service other than heroku</li>
+	<li>I've written a basic HTTP Server in ruby</li>
+</ul>
