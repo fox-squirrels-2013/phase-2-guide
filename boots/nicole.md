@@ -50,3 +50,7 @@ to make an odd Frankenstein responsive/fixed hybrid that broke down on anything 
 In the afternoon, we found how to use BCrypt (I apparently wasn't including the file in my test code, which made me think 
 that I sucked at it), and also discovered the joys of merging two files at the same time. (Just FYI, never do that, 
 especially if the project is due in 5 minutes.) Now, though, we have a neat page. 
+
+### Week 5 exercism.io Prep Exercise:
+
+[exercism.io: Bob.js](http://exercism.io/submissions/23da1de0ec6ace7ebadd39ac)
