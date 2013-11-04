@@ -1,23 +1,22 @@
-# SOLO TFD DAY
-Taken from the popular (and sometimes necessary) AFD (alcohol free day) idea, a
-TFD (testing free day) is useful when you just need to focus your learning on
-specific topics and not on building a full tested web app.
+# SOLO DAY - Week 1
 
-* Welcome to your **TFD**
 
 1. [Learning Objectives](#learning-objectives)
-1. [Instructions](#instructions)
+1. [Releases](#releases)
 
 
 ## Learning Objectives
-Solidify your learning on one or more of your week 1 and week 2 learning
-objectives.  **Ignore all testing**
-
+Solidify your learning from week 1.
 * Take the time to work solo and accurately assess your learning and knowledge.
+* Validate your learning and get help during one-on-one with teachers.
 
-## Instructions
+## NOTE! Software changes. The skeletons for these challenges may be out of date - if things are not working validate with your latest skeleton and understand the modifications needed. 
 
-* Choose a challenge below based on it's learning objectives.
+## Releases
+### Release 1
+
+* Complete the challenges below on your own. 
+* Read through learning objectives for each challenge and work to your weakness first.  
 * Journal your learning - discuss how your code / coding process illustrates
   each objective.
 
@@ -75,23 +74,7 @@ objectives.  **Ignore all testing**
    selectors
   * I've used [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/)
   * I'm comfortable using the different css `position` and `display` formats.
-1. Challenge : [AJAX and jQuery](http://socrates.devbootcamp.com/challenges/394)
-  * I can use jQuery to retrieve elements from the DOM using CSS selectors
-  * I can bind events to elements I've pulled from the DOM
-  * I can trigger events on elements I've pulled from the DOM
-  * I use AJAX to retrieve JSON from the server and then modify the page based on the JSON
 
-1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)
-  * I use jQuery to implement Event Delegation with the `on` function
-  * I separate my view concerns from my data verification concerns
-  * I use AJAX to retrieve partials from the server and replace or append
-   them to a website
-  * I use AJAX to retrieve JSON from the server and then modify the page based on
-   the JSON
-  * I use MustacheJS or underscores templating library to convert JSON to HTML
-1. Challenge : [OO JS Racer](http://socrates.devbootcamp.com/challenges/297)
-  * I can use jQuery to retrieve elements from the DOM using CSS selectors
-  * I can use jQuery's [traversal methods](http://api.jquery.com/category/traversing/) to find elements relative to the given element
-  * I can bind events to elements I've pulled from the DOM
-  * I can trigger events on elements I've pulled from the DOM
-  * I can use jQuery to append and replace elements on the page
+### Release 2
+
+1. Challenge [Craigslist Jr.](http://socrates.devbootcamp.com/challenges/275)  Now that you've solidified your knowledge on the individual parts, bring it all together in this challenge. 
