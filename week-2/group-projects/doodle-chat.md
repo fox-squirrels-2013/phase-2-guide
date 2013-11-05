@@ -5,7 +5,7 @@ Doodle chat is a way to let people:
 2. Share it to a friend
 3. See it being updated!
 
-This challenge can be done almost entirely on the client side. Unless it is necessary to store something in the database, write your code in JavaScript.
+Release 1 and 2 can be done entirely on the client side. Later releases have server-side interaction. Unless it is necessary to store something in the database, write your code in JavaScript.
 
 # Release 1
 
@@ -13,10 +13,11 @@ This challenge can be done almost entirely on the client side. Unless it is nece
 
 # Release 2
 
-* Guest may save their drawing to the screen and retrieve it via URL
+* Guest may change the color or other feature of their drawing tool.
 
 # Release 3
 
+* Guest may save their drawing to the screen and retrieve it via URL
 * Each time save is clicked on a drawing, it saves a new copy
 * Guest may see all previous versions of a drawing
 
