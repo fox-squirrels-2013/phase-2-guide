@@ -7,6 +7,7 @@
 
 1. [TypeRacer Clone!](group-projects/typeracer.md)
 1. [Doodle Chat](group-projects/doodle-chat.md)
+1. [Instant Messenger](group-projects/instant-messenger.md)
 
 
 ## Project Learning Objectives
