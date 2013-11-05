@@ -60,17 +60,17 @@
 * 7:30 - LATE : Optimize your learning - [JS Tutorials on Socrates](http://socrates.devbootcamp.com/labs/javascript/introduction/introduction) - especially functions and objects. 
 
 ####Tuesday
-* 9:00 EI
-* 9:30 - 11:30 Pair on [Orange Trees]((../../../challenge-orange-trees)).
-* 11:30 - 12:30 Lecture
-* 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
+* 9:00 - 10:30 Pair on [Roman Numerals JS](https://github.com/fox-squirrels-2013/roman_js) or
+[Orange Trees JS](https://github.com/fox-squirrels-2013/simple_orange_js).
+* 10:30 - 12:30 EE with Karim
+* 2:00 - 2:45 JavaScript Lecture with Myles.
 * 7:00 : Journal.
 * 3:00 - 7:00 Group Project
 * 6:00 - Mentor Night
 
 ####Wednesday
-* 9:00 -10:30 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
-* 10:30 - 12:30 EE with Karim
+* 9:00 EI
+* 9:30 -12:30 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 5:30 - 5:45 [Setting up Jasmine](week-2/lectures/js-testing.md)
 * 3:00 - 7:00 Group Projects
