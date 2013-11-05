@@ -5,6 +5,8 @@ Doodle chat is a way to let people:
 2. Share it to a friend
 3. See it being updated!
 
+This challenge can be done almost entirely on the client side. Unless it is necessary to store something in the database, write your code in JavaScript.
+
 # Release 1
 
 * Guest may draw something on the screen
