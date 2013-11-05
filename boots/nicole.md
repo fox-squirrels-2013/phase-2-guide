@@ -33,7 +33,7 @@ Today, I learned quite a bit more about sessions. I had looked into them last ni
 offended when the strongest members of our groups broke off. My group thought it was a trick question, so we hadn't 
 seriously debated it.
 
-### 2013/10/31
+### 2013/11/01
 
 | Coders Mindset | Testing & TDD    | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ---------------- | --------- | ------------ | ------------ | ---------- |
@@ -54,3 +54,19 @@ especially if the project is due in 5 minutes.) Now, though, we have a neat page
 ### Week 5 exercism.io Prep Exercise:
 
 [exercism.io: Bob.js](http://exercism.io/submissions/23da1de0ec6ace7ebadd39ac)
+
+### 2013/11/04
+
+|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
+| :thumbsup:                       | 8/8            | 3/8             | 2/10       | 3/7          | 3/5             |
+| :thumbsup: :thumbsup:            | 8/8            | 1/7             |            | 0/5          | 1/6             |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 0/5             |            | 0/3          | 0/5             |
+
+Today felt like a review day. I already did the portfolio challenges (for the most part - one actually requires some Javascript
+to work, so I didn't do it) and the Javascript stuff, so I could devote most of my day to tweaking a few of the challenges 
+and really drill down on Craigslist, Jr.
+
+One cool thing I found while doing CL, Jr. was the use of Digest. Ben next to me alerted to its presence, but I found 
+that it combined with the gem FriendlyId allowed me to connect the hashes created by Digest to the database, thus 
+linking each hash to the code itself. The gem also allows me to look up a hash based on the title of the post. 
