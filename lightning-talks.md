@@ -18,6 +18,17 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 5. Notes for given talks listed below.
 
 ## Talks
+
+## Week 2: 
+### Wednesday
+* TOPIC : NAME
+
+### Thursday
+* TOPIC : NAME
+
+### Friday
+* TOPIC : NAME
+
 ## Week 1:
 ###  Wednesday
 * [Git Merge](lightning-talks/merge-by-nicole.md) : by Nicole
@@ -43,6 +54,20 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Marc - Habits
 
 ## Available Talks
+
+### Good Week 2 Topics
+* What is `this`?
+* Prototypes
+* JS Objects
+* Event Handling
+* Callbacks
+* Closures
+* Arrange Act Assert
+* **ADD MORE!**
+
+
+
+### Good Week 1 Topics
 * What is the  arrange act assert pattern?
 * What is a protocol?
 * What are the 4 rules of simple design?
