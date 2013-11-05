@@ -1,3 +1,12 @@
+##11/4/2013
+
+| Coders Mindset              | Javascript    | Testingi JS  | Debugging JS  | JS WebApps    |
+| --------------------------- | ------------- | -----------  | ------------- | ------------- |
+|   :+1: 7/8 :+1::+1: 1/8     |    :+1: 2/8   |  :+1: 0/4    |   :+1: 1/7    | :+1: 0/5      |
+
+Today, I solidified some of my learning on Sinatra and ActiveRecord. I learned how to access error messages (including the full versions) from ActiveModel, and learned how to set custom error messages. I also brushed up on CSS, and am going to spend more of this evening studying Javascript.
+
+
 ##11/1/2013
 
 | Coders Mindset              | Testing & TDD | Debugging  | Ruby Webapps             | ActiveRecord         | HTML & CSS              |
