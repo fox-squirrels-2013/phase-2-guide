@@ -23,7 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Wednesday
 * TOPIC : NAME
 * [Learning vs Earning](learning_vs_earning_by_brantley.md) : by Brantley
-* [Aha](aha_by_brant.md) : by Brent
+* [Aha](aha_by_brent.md) : by Brent
 * [Linguistics](linguistics_by_daniel.md) : by Daniel
 * [Using .prototype](stuff_by_sherif.md) : by Sherif
 
