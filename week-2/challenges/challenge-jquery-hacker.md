@@ -20,7 +20,7 @@ jQuery command on an existing web site and modify its appearance and behavior.
 
 ## Releases
 
-Spend 15 minutes on each of the following hacks to the Socrates website, work
+Spend 10 minutes on each of the following hacks to the Socrates website, work
 with a new pair on each hack.  Use the Chrome Console to run your hacks.
 
 
@@ -33,13 +33,11 @@ with a new pair on each hack.  Use the Chrome Console to run your hacks.
 
 * Use basic selectors and the find() method to select an image on the page and
   change it with another image of your choice.
-* Add a background image to a <div> element on the page.
+* Add a background image to a <div> element on the page.  
 
 ### Release 3
 
-* Use traverse methods (like filtering or tree traversal) to select all
-  instances of a repeated element on the page ( like the h3 surrounding the
-  words 'Code Review' )
+* Use traverse methods (like filtering or tree traversal) to select all instances of a repeated element on the page ( like the `<h3>` surrounding the words 'Code Review' )
 * Use the animate() method to modify the selected element.
 * Explore the animate() method and call it in several ways.
 
