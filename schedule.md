@@ -21,8 +21,6 @@
 
 ####Wednesday
 * 9:00 EI
-* 
-
 * 9:30 -10:30 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
 * 10:30 - 12:30 [Orange Trees with Jasmine and jQuery](https://github.com/fox-squirrels-2013/orange_jasmine) look over [Setting up Jasmine](week-2/lectures/js-testing.md)
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
