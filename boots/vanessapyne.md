@@ -46,3 +46,12 @@ so looking back over the thumbs up system it seems i've been doing it all wrong,
 differently.  i feel all right with restful crud.  except i can't seem to validate a password upon signing up to
 save my life, but ceaste le vie.  i know very little french.   
 
+nov 5
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|      :+1:      |     :+1::+1:    |            |              |                 |
+
+not sure if i really deserve 2 thumbs for js but i spent a lot of focused time trying to make a function work.  and it
+kinda did.  so take that, js.
+
