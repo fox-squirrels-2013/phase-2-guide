@@ -21,14 +21,15 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Week 2: 
 ### Wednesday
-* TOPIC : NAME
-* [Learning vs Earning](learning_vs_earning_by_brantley.md) : by Brantley
-* [Aha](aha_by_brent.md) : by Brent
-* [Linguistics](linguistics_by_daniel.md) : by Daniel
-* [Using .prototype](stuff_by_sherif.md) : by Sherif
 
-* [Default Params in JS](default_params_by_louie.md) : by Louie
+* [Learning vs Earning](lightning-talks/learning_vs_earning_by_brantley.md) : by Brantley
+* [Aha](lightning-talks/aha_by_brent.md) : by Brent
+* [Linguistics](lightning-talks/linguistics_by_daniel.md) : by Daniel
+* [Using .prototype](lightning-talks/stuff_by_sherif.md) : by Sherif
+* [Default Params in JS](lightning-talks/default_params_by_louie.md) : by Louie
+
 ### Thursday
+
 * TOPIC : NAME
 * [Manipulating the DOM]() : by Nicole
 * []() : by Garreth
@@ -40,6 +41,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * []() : by Dom
 
 ### Friday
+
 * TOPIC : NAME
 
 
