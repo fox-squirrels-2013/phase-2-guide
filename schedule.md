@@ -14,18 +14,19 @@
 * 9:00 - 10:30 Pair on [Roman Numerals JS](https://github.com/fox-squirrels-2013/roman_js) or
 [Orange Trees JS](https://github.com/fox-squirrels-2013/simple_orange_js).
 * 10:30 - 12:30 EE with Karim
-* 2:00 - 2:45 JavaScript Lecture with Myles.
-* 3:00 - 7:00 [Group Project](week-2/group-projects.md)
+* 2:00 - 2:45 JavaScript Lecture with Myles [gist notes](https://gist.github.com/quackingduck/931a794bbe4e324cddb1)
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 6:00 - Mentor Night
 * 7:00 : Journal.
 
 ####Wednesday
 * 9:00 EI
+* 
+
 * 9:30 -10:30 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
-* 10:30 - 12:30 [Orange Trees with Jasmine and jQuery]()
+* 10:30 - 12:30 [Orange Trees with Jasmine and jQuery](https://github.com/fox-squirrels-2013/orange_jasmine) look over [Setting up Jasmine](week-2/lectures/js-testing.md)
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
-* 5:30 - 5:45 [Setting up Jasmine](week-2/lectures/js-testing.md)
-* 3:00 - 7:00 Group Projects
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
@@ -34,7 +35,7 @@
 * 9:30 - 11:30 Pair on [AJAXify Todos](../../../challenge-ajax-todos).
 * 11:30 - 12:30 Lecture [AJAX](https://gist.github.com/dbc-challenges/0f31c091db0a6d042bc2)
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
-* 3:00 - 7:00 Group Projects
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
@@ -44,7 +45,7 @@
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 4:00 Retrospective
-* 3:00 - 7:00 Group Projects
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
