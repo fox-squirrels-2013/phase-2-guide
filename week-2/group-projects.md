@@ -1,6 +1,7 @@
 # Group Projects
 1. [Projects To Choose From](#projects-to-choose-from)
 1. [Learning Objectives](#learning-objectives)
+1. [Teams](#teams)
 1. [Working Agreements](../working-agreements.md)
 
 ## Projects To Choose From
@@ -13,3 +14,12 @@
 
 Your application should illustrate most of the :+1 and some of the :+1: :+1:
 objectives for Week 2's Learning Objectives.
+
+##TEAMS
+
+4: marion, mike, nicole, ben
+4: vanessa, tyler,garreth, brantley
+4: logan, daniel, daniel, louie
+4: mark, thomas, lidsey, miya
+3: sherif, dom, brent
+3: beni, marc, mo
