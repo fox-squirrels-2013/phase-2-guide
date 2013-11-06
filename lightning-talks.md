@@ -22,12 +22,26 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Week 2: 
 ### Wednesday
 * TOPIC : NAME
+* [Learning vs Earning](learning_vs_earning_by_brantley.md) : by Brantley
+* [Aha](aha_by_brent.md) : by Brent
+* [Linguistics](linguistics_by_daniel.md) : by Daniel
+* [Using .prototype](stuff_by_sherif.md) : by Sherif
 
+* [Default Params in JS](default_params_by_louie.md) : by Louie
 ### Thursday
 * TOPIC : NAME
+* [Manipulating the DOM]() : by Nicole
+* []() : by Garreth
+* [Callbacks](): by Marion
+* []() : by Mark
+* []() : by Beni
+* [Prototype]() : by Mo
+* []() : by Logan
+* []() : by Dom
 
 ### Friday
 * TOPIC : NAME
+
 
 ## Week 1:
 ###  Wednesday
@@ -48,10 +62,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * [Fixed vs Growth Mindset](lightning-talks/fixed-mindset-vs-growth-mindset-by-sherif.md) by Sherif
 
 ### Friday
-* Miya - What is a code kata?
-* Garreth - Custom Methods
-* Logan - The Importance of Smiling
-* Marc - Habits
+* [Code Kata](code-kata-by-maya.md) : by Miya - What is a code kata?
+* [Optimize Your Learning](optimize_your_learning_by_garreth.md) : by Garreth - Custom Methods
+* [Smiling](importance-of-smiling-by-logan.md) : by Logan - The Importance of Smiling
+* [Habbits](amazing_by_mark.md) : by Marc - Habits
 
 ## Available Talks
 
