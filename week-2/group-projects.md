@@ -8,12 +8,16 @@
 
 1. [TypeRacer Clone!](group-projects/typeracer.md)
 1. [Doodle Chat](group-projects/doodle-chat.md)
+1. [Instant Messenger](group-projects/instant-messenger.md)
 
 
 ## Project Learning Objectives
 
 Your application should illustrate most of the :+1 and some of the :+1: :+1:
-objectives for Week 2's Learning Objectives.
+objectives for Week 2's Learning Objectives.  
+
+These projects are a chance to improve your JavaScript skills and your testing skills. Please feel free to spike on JS for a short period (less than an hour) and then go back and implement your feature using TDD.
+
 
 ##TEAMS
 

@@ -51,6 +51,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Miya - What is a code kata?
 * Garreth - Custom Methods
 * Logan - The Importance of Smiling
+* Marc - Habits
 
 ## Available Talks
 

@@ -35,3 +35,14 @@ much..  i feel very unsure of rspec and TDD... i've been hung up on environments
 quickly, i'd like to know as much about them as possible as to cut down on troubleshooting time.  i think i'm going to pull
 up the challenge from today and do what i can of it again tonight.  
 
+
+nov 4
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|      :+1:      |                 |            |              |                 |
+
+so looking back over the thumbs up system it seems i've been doing it all wrong, er idk...so i'll try and do better, er 
+differently.  i feel all right with restful crud.  except i can't seem to validate a password upon signing up to
+save my life, but ceaste le vie.  i know very little french.   
+
