@@ -70,3 +70,16 @@ and really drill down on Craigslist, Jr.
 One cool thing I found while doing CL, Jr. was the use of Digest. Ben next to me alerted to its presence, but I found 
 that it combined with the gem FriendlyId allowed me to connect the hashes created by Digest to the database, thus 
 linking each hash to the code itself. The gem also allows me to look up a hash based on the title of the post. 
+
+### 2013/11/05
+
+|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
+| :thumbsup:                       | 8/8            | 6/8             | 2/10       | 4/7          | 3/5             |
+| :thumbsup: :thumbsup:            | 8/8            | 3/7             |            | 1/5          | 1/6             |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 1/5             |            | 0/3          | 0/5             |
+
+I felt I could have made more progress today. It felt like we were fumbling around all morning, trying to figure out 
+objects. However, Myles really illuminated quite a few things about it. Probably the best thing I took from it is the 
+quirks of Javascript syntax. Also, I have a greater understanding of what Javascript can access, and am better prepared 
+to select a sepecific object for the job (e.g., document when elements in the HTML need to be manipulated).
