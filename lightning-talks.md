@@ -24,7 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * [Learning vs Earning](lightning-talks/learning_vs_earning_by_brantley.md) : by Brantley
 * [Aha](lightning-talks/aha_by_brent.md) : by Brent
-* [Linguistics](lightning-talks/linguistics_by_daniel.md) : by Daniel
+* [Linguistics](lightning-talks/linguistics_by_daniel.md) : by Daniel Earthy
 * [Using .prototype](lightning-talks/stuff_by_sherif.md) : by Sherif
 * [Default Params in JS](lightning-talks/default_params_by_louie.md) : by Louie
 
@@ -43,6 +43,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ### Friday
 
 * TOPIC : NAME
+* [Closures]() : by Daniel Kimbel
 
 
 ## Week 1:
@@ -77,7 +78,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JS Objects
 * Event Handling
 * Callbacks
-* Closures
 * Arrange Act Assert
 * **ADD MORE!**
 
