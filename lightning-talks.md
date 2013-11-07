@@ -42,6 +42,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Friday
 
+* TOPIC : NAME
 * [Closures]() : by Daniel Kimbel
 
 
