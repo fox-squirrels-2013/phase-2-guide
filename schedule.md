@@ -29,8 +29,9 @@
 * 7:30 - LATE :  Optimize your learning
 
 ####Thursday
-* 9:00 EI
-* 9:30 - 11:30 Pair on [AJAXify Todos](../../../challenge-ajax-todos).
+* 9:00 Phase 3 Pitches
+* 9:30 EI
+* 9:30 - 11:30 Pair on [AJAXify Todos](https://github.com/fox-squirrels-2013/ajax_todos).
 * 11:30 - 12:30 Lecture [AJAX](https://gist.github.com/dbc-challenges/0f31c091db0a6d042bc2)
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
