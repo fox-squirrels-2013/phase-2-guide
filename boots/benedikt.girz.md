@@ -1,7 +1,7 @@
 Coders Mindset	Testing & TDD	Debugging	Ruby Webapps	ActiveRecord	HTML & CSS
  :smile: 			:expressionless:			:smile:		:smile:				:smile:
 
-### 2013/11/05
+### 2013/11/06
 
 |                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
