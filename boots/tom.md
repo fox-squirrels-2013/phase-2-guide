@@ -45,3 +45,13 @@ Reflecting on my skill self-assessment, certainly need to focus on TDD exercises
 Coders Mindset  Testing & TDD Debugging     Ruby Webapps  ActiveRecord     HTML & CSS
 
 :thumbsup: 7/8       3/8     :thumbsup::thumbsup:3/8   :thumbsup::thumbsup:       :thumbsup: 7/8   :thumbsup::thumbsup: 0/4
+
+November 6, 5, 4, 3, 2 ....
+
+Now you might be able to read this......
+
+|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
+| :thumbsup:                       | 8/8            | 6/8             | 2/10       | 4/7          | 3/5             |
+| :thumbsup: :thumbsup:            | 8/8            | 3/7             |            | 1/5          | 1/6             |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 1/5             |            | 0/3          | 0/5             |
