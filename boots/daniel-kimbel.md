@@ -1,3 +1,12 @@
+##11/6/2013
+
+| Coders Mindset              | Javascript    | Testing  JS  | Debugging JS  | JS WebApps    |
+| --------------------------- | ------------- | -----------  | ------------- | ------------- |
+|   :+1: 7/8 :+1::+1: 1/8     |    :+1: 6/8   |  :+1: 0/4    |   :+1: 5/7    | :+1: 1/5      |
+
+Today, I learned a considerable amount about OO programming in Javascript. I know what a 'prototype' is now, to start with. I'm also picking up on how to use JS to work with clicks and keystrokes from within an HTML doc.
+
+
 ##11/5/2013
 
 | Coders Mindset              | Javascript    | Testingi JS  | Debugging JS  | JS WebApps    |
