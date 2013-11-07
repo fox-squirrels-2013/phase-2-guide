@@ -83,3 +83,17 @@ I felt I could have made more progress today. It felt like we were fumbling arou
 objects. However, Myles really illuminated quite a few things about it. Probably the best thing I took from it is the 
 quirks of Javascript syntax. Also, I have a greater understanding of what Javascript can access, and am better prepared 
 to select a sepecific object for the job (e.g., document when elements in the HTML need to be manipulated).
+
+### 2013/11/06
+
+|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
+| :thumbsup:                       | 8/8            | 8/8             | 3/4        | 5.5/7        | 5/5             |
+| :thumbsup: :thumbsup:            | 8/8            | 4.5/7           | 2/4        | 2/5          | 1/6             |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 1.5/5           | 0/2        | 2/3          | 0/5             |
+
+Today was frustrating. It was less the code (though I really should remember more Javascript than the nil I seem to have 
+retained from college) and more the fact that my ankle on my bad leg swelled up to twice its size. However, despite that,
+I managed to finish 2/3 of the testing challenge from this morning (late), and managed to write functional code with 
+Marion during the group project. I also have a better idea of Javascript objects, and know fairly well how testing with 
+Jasmine works. 
