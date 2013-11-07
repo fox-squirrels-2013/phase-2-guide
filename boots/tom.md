@@ -52,6 +52,18 @@ Now you might be able to read this......
 
 |                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
-| :thumbsup:                       | 8/8            | 6/8             | 2/10       | 4/7          | 3/5             |
-| :thumbsup: :thumbsup:            | 8/8            | 3/7             |            | 1/5          | 1/6             |
-| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 1/5             |            | 0/3          | 0/5             |
+| :thumbsup:                       | 8/8            | 7/8             |            | 5/7          | 3/5             |
+| :thumbsup: :thumbsup:            | 4/8            | 3/7             |            | 1/5          | 1/6             |
+| :thumbsup: :thumbsup: :thumbsup: |                |                 |            | 0/3          | 0/5             |
+
+Wednesday
+Half way through Dev Bootcamp. From JS perspective, good pairing session in the morning. Got to write out a bunch of JS. Felt really productive because I made a bunch of syntax errors and was corrected, so nice tight feedback loop. Got to play with more and more testing code, comfortable with dealing with the tests that others have written. Need to write more on my own. JQuery exercise was a bit rushed, need to get back to that. Evening learning filled with more JS, and JQuery as possibly.
+
+Tuesday
+First day on JS. Good morning session. Had fun building something that was almost a orangeTree constructor. Good to have my assumptions about where to place functions that belong to a constructor (outside of them, not inside like we did). Group project is struggling for momentum.
+
+Monday
+Recap day. Very welcome chance to just focus on the prior weeks of learning. Still have a few topics to dive back into in the future.
+
+The Weekend
+JS, JS, JS, Sinatra, JS. I'm more and more disatisfied by TeamTreeHouse. Sinatra labs were good but found the linked exercises frustrating, due to lack of feedback about errors. Perhaps an enduring facet of working with JS...
