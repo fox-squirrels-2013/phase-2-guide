@@ -3,6 +3,8 @@ I'm a pretty badass typist. If only there was some way I could establish my
 dominance as a typist so that everyone on the Internet would bow to my
 amazingness.
 
+This challenge can be done almost entirely on the client side. Unless it is necessary to store something in the database, write your code in JavaScript.
+
 ## Release 1
 * Guest is shown a typing quiz
 * Guest is told their words per minute when they hit submit
