@@ -43,7 +43,7 @@
 * 9:30 - 11:30 Pair on [Survey Fun](https://github.com/fox-squirrels-2013/survey_fun)
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
-* 4:00 Retrospective
+* 3:00 [Retrospective](http://www.google.com/moderator/#15/e=20fa16&t=20fa16.41) - please add questions for topics you liked and didn't like and respond or vote on them.
 * 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
