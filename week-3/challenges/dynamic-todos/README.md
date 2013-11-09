@@ -1,16 +1,38 @@
-### Purpose
-The Sinatra Skeleton:
+# Dynamic Todos
 
-1. Provides a foundation for building challenges.
-2. Demonstrates a reasonable set of practices around building Sinatra applications.
-3. Eases the transition to Rails for Dev Bootcamp students
+## Overview
 
-### Contributing
+Understanding how to bind and handle events is a core part of being a web developer. This challenge tasks you to take a reasonably well factored Javascript application and extend it to include event bindings. Some of the good practices you'll see in the provided code are:
 
-We would love for you to help make the skeleton more awesome, There are three ways to contribute:
+1. Using templates from the HTML to add elements.
+1. Using functions to scope variables (i.e. todoTemplate is accessible within buildTodo, but not in the global scope. [Why?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FFunctions_and_function_scope))
+1. Using functions to do only one thing (i.e. building the Todo DOM Element vs building the element and adding it to the list)
 
-1. Ask for a bug fix or enhancement!
-2. Submit a pull request for a bug fix or enhancement!
-3. Code review an open pull request!
+This should provide you with a solid foundation to complete the remaining features.
 
-Be prepared to give and receive specific, actionable, and kind feedback!
+### Core
+
+This challenge requires you to manipulate objects that have been added dynamically. You may want to brush up on [Event Delegation](http://davidwalsh.name/event-delegate).
+Objectives
+
+Modify the [todo skeleton](./) (This README's parent) so that:
+
+1. A todo may be added to the page.
+1. A todo may be marked as complete.
+1. A todo may be removed from the page.
+
+(Hint: Create named functions and bind them to the appropriate buttons)
+
+### Stretch
+
+When creating lists, you often want to reorder them. Use [HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/) events to allow manual sorting of the todo list.
+
+### Journaling Prompts
+
+Journal your learning - discuss how your code and coding process illustrates these objectives.
+
+* I use jQuery to implement Event Delegation with the on function
+* I separate my view concerns from my data verification concerns
+* I use AJAX to retrieve partials from the server and replace or append them to a website
+* I use AJAX to retrieve JSON from the server and then modify the page based on the JSON
+* I use MustacheJS or underscores templating library to convert JSON to HTML
