@@ -41,10 +41,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Friday
 
-* [Closures](closures_by_daniel.md) : by Daniel Kimbel
-* [Arrange Act Assert](arrange_act_assert.md) : by Miya
-* [Callbacks](callbacks_by_marion_an_vanessa.md) : by Marion
-* [Code Taboo] : by Thomas
+* [Closures](lightning-talks/closures_by_daniel.md) : by Daniel Kimbel
+* [Arrange Act Assert](lightning-talks/arrange_act_assert.md) : by Miya
+* [Callbacks](lightning-talks/callbacks_by_marion_an_vanessa.md) : by Marion
+* [Code Taboo] : by Thomas (hey - that was fun)
 
 
 ## Week 1:
