@@ -2,7 +2,7 @@
 
 ## Solidify your week 2 learning
 1. Assess yourself on the learning objectives from week 1 and week 2. Notice any gaps.
-1. Work on the [solo challenges](https://github.com/fox-squirrels-2013/phase-2-guide/tree/master/week-2/challenges/solo-wk2.md) from week 2 (complete at least 2 - the remaining ones you can complete on Monday)
+1. Work on the [solo challenges](https://github.com/fox-squirrels-2013/phase-2-guide/tree/master/week-3/challenges/solo-wk2.md) from week 2 (complete at least 2 - the remaining ones you can complete on Monday)
 1. Implement JavaScript into your [Thing-O Challenge](https://github.com/fox-squirrels-2013/CHALLENGE_thing-o).
 
 ## Get ready for week 3.  
