@@ -30,7 +30,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ### Thursday
 
-* TOPIC : NAME
 * [Manipulating the DOM]() : by Nicole
 * []() : by Garreth
 * [Callbacks](): by Marion
@@ -38,12 +37,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * []() : by Beni
 * [Prototype]() : by Mo
 * []() : by Logan
-* []() : by Dom
+* [Public Speaking]() : by Dom
 
 ### Friday
 
-* TOPIC : NAME
-* [Closures]() : by Daniel Kimbel
+* [Closures](lightning-talks/closures_by_daniel.md) : by Daniel Kimbel
+* [Arrange Act Assert](lightning-talks/arrange_act_assert.md) : by Miya
+* [Callbacks](lightning-talks/callbacks_by_marion_an_vanessa.md) : by Marion
+* [Code Taboo] : by Thomas (hey - that was fun)
 
 
 ## Week 1:
