@@ -1,4 +1,4 @@
-# SOLO DAY - Week 2
+# SOLO DAY - Week 3
 
 
 1. [Learning Objectives](#learning-objectives)
