@@ -55,3 +55,13 @@ nov 5
 not sure if i really deserve 2 thumbs for js but i spent a lot of focused time trying to make a function work.  and it
 kinda did.  so take that, js.
 
+nov 9
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|      :+1:      |     :+1::+1:    |            |              |        :+1:     |
+
+i'm feeling pretty good about jquery and half of ajax... testing and debugging are woefully underdeveloped in my js
+experience.  well, at least writing jasmine tests.  need to do a few more ajax requests today and then i think i will
+feel pretty solid.
+
