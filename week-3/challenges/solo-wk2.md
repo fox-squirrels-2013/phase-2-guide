@@ -18,7 +18,7 @@ Solidify your learning from week 2.
 * Journal your learning - discuss how your code / coding process illustrates
   each objective.
 
-1. Challenge : [Validations - Server to Client](http://socrates.devbootcamp.com/challenges/398)
+1. Challenge : [Validations - Server to Client](https://github.com/fox-squirrels-2013/ar-propagate-validations)
   * I've used the route string to define params
   * I can use relations to
    [create](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html#method-i-create)
