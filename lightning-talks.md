@@ -18,6 +18,35 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 5. Notes for given talks listed below.
 
 ## Talks
+
+## Week 2: 
+### Wednesday
+
+* [Learning vs Earning](lightning-talks/learning_vs_earning_by_brantley.md) : by Brantley
+* [Aha](lightning-talks/aha_by_brent.md) : by Brent
+* [Linguistics](lightning-talks/linguistics_by_daniel.md) : by Daniel Earthy
+* [Using .prototype](lightning-talks/stuff_by_sherif.md) : by Sherif
+* [Default Params in JS](lightning-talks/default_params_by_louie.md) : by Louie
+
+### Thursday
+
+* [Manipulating the DOM]() : by Nicole
+* []() : by Garreth
+* [Callbacks](): by Marion
+* []() : by Mark
+* []() : by Beni
+* [Prototype]() : by Mo
+* []() : by Logan
+* [Public Speaking]() : by Dom
+
+### Friday
+
+* [Closures](lightning-talks/closures_by_daniel.md) : by Daniel Kimbel
+* [Arrange Act Assert](lightning-talks/arrange_act_assert.md) : by Miya
+* [Callbacks](lightning-talks/callbacks_by_marion_an_vanessa.md) : by Marion
+* [Code Taboo] : by Thomas (hey - that was fun)
+
+
 ## Week 1:
 ###  Wednesday
 * [Git Merge](lightning-talks/merge-by-nicole.md) : by Nicole
@@ -37,12 +66,25 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * [Fixed vs Growth Mindset](lightning-talks/fixed-mindset-vs-growth-mindset-by-sherif.md) by Sherif
 
 ### Friday
-* Miya - What is a code kata?
-* Garreth - Custom Methods
-* Logan - The Importance of Smiling
-* Marc - Habits
+* [Code Kata](code-kata-by-maya.md) : by Miya - What is a code kata?
+* [Optimize Your Learning](optimize_your_learning_by_garreth.md) : by Garreth - Custom Methods
+* [Smiling](importance-of-smiling-by-logan.md) : by Logan - The Importance of Smiling
+* [Habbits](amazing_by_mark.md) : by Marc - Habits
 
 ## Available Talks
+
+### Good Week 2 Topics
+* What is `this`?
+* Prototypes
+* JS Objects
+* Event Handling
+* Callbacks
+* Arrange Act Assert
+* **ADD MORE!**
+
+
+
+### Good Week 1 Topics
 * What is the  arrange act assert pattern?
 * What is a protocol?
 * What are the 4 rules of simple design?
