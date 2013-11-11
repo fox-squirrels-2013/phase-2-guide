@@ -20,9 +20,9 @@ I get the ideas behind the Ruby webapps we've done but have not had a chance to 
 
 
 
-
 Week 2
-| Coder's Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
-| -------------- | --------------- | ---------- | ------------ | --------------- |
-| :+1::+1:       | :+1:            | :+1:       | :+1:         | :+1:            |
-
+Coder's Mindset :+1::+1:
+JS the Language :+1:
+Testing JS :+1:
+Debugging JS :+1:
+JS for Web Apps :+1:
