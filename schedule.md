@@ -1,4 +1,54 @@
 ## Schedule of the Phase
+### Week 6: [Major Learning Objectives for this week](week-3/learning-objectives.md)
+
+
+####Monday:
+* 9:00 EI
+* 9:30 - 12:30 [Solo Challenges](week-3/challenges/solo-wk2.md) and [Pair with Teachers - book a slot](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+* 2:00 presentations : [Week 2 Team Project - Code Presentations](week-2/group-projects.md/#presentation)
+* 3:00 - 7:00 : Solo Challenges and Pair with Teachers.
+* 7:00 : Journal.
+* 7:30 - LATE : Optimize your learning []()
+
+####Tuesday
+* 9:00 EI
+* 9:30 - 12:30 Pair on Challenges.
+* 2:00 - 2:45 Lecture
+* 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
+* 6:00 - Mentor Night
+* 7:00 : Journal.
+
+####Wednesday
+* 9:00 EI
+* 9:30 -12:30 Pair on Challenges
+* 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
+* 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
+* 7:00 : Journal.
+* 7:30 - LATE :  Optimize your learning
+
+####Thursday
+* 9:00 EI
+* 9:30-12:30 Opt In Assessments
+* 9:30 - 12:30 Pair on Challenges
+* 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
+* 7:00 : Journal.
+* 7:30 - LATE :  Optimize your learning
+
+####Friday
+* 9:00 EI
+* 9:30 - 12:30 Pair on Challenges
+* 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
+* 3:00 [Retrospective]()
+* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
+* 7:00 : Journal.
+* 7:30 - LATE :  Optimize your learning
+
+####Weekend
+* Do Prep for Phase 3 - See email from Shadi.
+
+
+## Schedule of the Phase
 ### Week 5: [Major Learning Objectives for this week](week-2/learning-objectives.md)
 
 
