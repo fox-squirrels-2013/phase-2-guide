@@ -9,6 +9,7 @@
 Solidify your learning from week 2.
 * Take the time to work solo and accurately assess your learning and knowledge.
 * Validate your learning and get help during one-on-one with teachers.
+* Some Challenges have been updated to the latest Sinatra Skeleton and moved to GitHub.  If you have not yet started a challenge, use the GitHub version (fork and clone and submit unmerged pull requests for code review).  If you have already started the Socrates version then you can also submit a new GitHub repo with a pull request for code review.
 
 ## Releases
 ### Release 1
@@ -36,7 +37,7 @@ Solidify your learning from week 2.
   * I can trigger events on elements I've pulled from the DOM
   * I use AJAX to retrieve JSON from the server and then modify the page based on the JSON
 
-1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)
+1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)  **GITHUB REPO : **[Dynamic Todos](https://github.com/fox-squirrels-2013/CHALLENGE_dynamic_todos)
   * I use jQuery to implement Event Delegation with the `on` function
   * I separate my view concerns from my data verification concerns
   * I use AJAX to retrieve partials from the server and replace or append
