@@ -48,7 +48,6 @@
 * Do Prep for Phase 3 - See email from Shadi.
 
 
-## Schedule of the Phase
 ### Week 5: [Major Learning Objectives for this week](week-2/learning-objectives.md)
 
 
