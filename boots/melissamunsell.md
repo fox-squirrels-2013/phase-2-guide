@@ -35,7 +35,7 @@ I can accurately trace what this will be in most instances
 /////////////////////
 TESTING JAVASCRIPT//
 ////////////////////
-I can use Capybara to test javascript that interacts with the DOM and server ## :+1::+1:
+I can use Capybara to test javascript that interacts with the DOM and server
 I can use capybara to test drive javascript that interacts with the DOM and server
 
 //////////////////////
