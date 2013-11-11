@@ -65,3 +65,53 @@ i'm feeling pretty good about jquery and half of ajax... testing and debugging a
 experience.  well, at least writing jasmine tests.  need to do a few more ajax requests today and then i think i will
 feel pretty solid.
 
+nov 11
+
+I submit my code for review from my peers
+I review and merge other peoples code
+I can explain why I wrote each line of code
+I can explain the difference between abstraction and indirection
+I can find and use gems to solve problems
+I proactively organize my code
+I follow my programming languages formatting standards
+I keep my code small
+I explain new things I've learned to my pair and team
+I have a clear strategy for choosing when to go through an abstraction layer
+I know which abstraction layer I'm currently working in
+I can evaluate whether to use a gem or implement something myself
+My team members can navigate the code I write
+I read error messages, and can find where in my code the error was raised
+I create hypothesis about why the code is broken before I try to fix it.
+I have a structured approach to proving my hypothesis'
+I can identify the boundaries between abstraction layers when debugging
+I use the chrome console to inspect elements and network traffic.
+I can use the ruby debugger to inspect program state
+I create several hypothesis' about problems before trying to fix it
+I can leverage the boundaries between abstraction layers when debugging
+I actively look for ways to speed up my feedback loop
+When I ask for help I clearly describe the problem I'm trying to solve
+My judgement sometimes keeps me from going down rabbit holes
+I create and throw away branches for each hypothesis as I debug
+I quickly find the place in my code where errors are raised
+I can create a single model CRUD sinatra application and deploy it to Heroku
+I've handled form input with post routes
+I've used the route string to define params
+I've used session to store data between requests
+I've used bcrypt to encrypt passwords to keep them secret even from people who have access to the database.
+I use some restful routes in my application
+I've written a basic HTTP Server in ruby
+I've created migrations and models
+I've used sinatra-activrecord to integrate activerecord and sinatra
+I've defined belongs_to and has_many relationships
+I've written tests to verify my relationships work
+I've written validations for presence and uniqueness
+I've retrieved validation errors from a models errors method
+I can easily use where and find to retrieve data
+I can clearly explain the two different roles that HTML and CSS play
+I've added a stylesheet to a web page
+I've applied styles via tag name, id, and class
+I've used CSS3 transitions
+I'm comfortable using the different css position and display formats.
+I've written custom validations
+I've used callbacks
+
