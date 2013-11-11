@@ -1,7 +1,13 @@
 11/11/13
 
 Week 1
-| Coder's Mindset :+1::+1: | Testing & TDD :+1: | Debugging :+1: | Ruby Webapps :+1: | HTML & CSS:+1: | ActiveRecord :+1: |
+Coder's Mindset :+1::+1:
+Testing & TDD :+1:
+Debugging :+1:
+Ruby Webapps :+1:
+HTML & CSS:+1:
+ActiveRecord :+1:
+
 I would love to have 2 or 3 thumbs competency for these different areas, but I feel like it's a tall order.  Hopefully I feel a bit behind but am okay with that as it just takes a bit more time and repetition for me to get these things down.  I feel 3x better than I did in phase 2 the first time.  I also feel like the Fox Squirrels as a whole are really on top of their game.  
 
 For Coder's Mindset I think I do okay - I think this is one of the reasons it takes me longer to write code (i.e. I'm thinking things out more...for better or for worse...sometimes it's good (for me) to just dive in.  
