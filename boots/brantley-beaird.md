@@ -16,8 +16,11 @@ I haven't done any testing outside of our daily exercises. It is very useful to 
 
 Topher has gotten me in the habit of really looking at error messages. I also continue to practice googling errors and am getting more comfortable with the right places to find answers (StackOverflow, documentation). I do try to thoroughly hypothesize various solutions, but I also find it useful to "see what happens" if I change ONE thing. I never use the debugger...but prolly should.  I should get better about creating branches for tests to throw away. 
 
-I get the ideas behind the Ruby webapps we've done but have not had a chance to personally implement all the items (e.g. bcrypt, I sort of did sessions on the group project). I still don't completely understand what makes a route RESTful...it seems like it's just a naming convention.  
+I get the ideas behind the Ruby webapps we've done but have not had a chance to personally implement all the items (e.g. bcrypt, I sort of did sessions on the group project). I still don't completely understand what makes a route RESTful...it seems like it's just a naming convention. I know I've mentioned this before, but I feel like I learn well when I have solid examples to go off of...probably all that formal schooling. Additionally, since there are SO many things out there, sometimes I'm not aware of the appropriate solution. Perhaps it wasn't taught or referenced and we were supposed to come up with / come across the answer ourselves, perhaps it was covered and I just didn't get it. This is where I should ask for help (more often). Too often I feel like I don't ask for help early enough - this is partially because I want to have some time to at least try to figure it out myself, since most of our work is pairing (which I enjoy).  
 
+HTML and CSS used to be like Chinese, but now it's more like Spanish, so that's a plus. It really helped / helps to think of HTML as structure only. When I saw various big name sites without CSS, things started to make a lot more sense...HTML is just the structure.  Granted things have become a big more complicated with embedded Ruby and jQuery. I have done very little CSS but am confident that I can make a page look presentable. It will be a while though before I can do any Dan Bender stuff, heh!
+
+ActiveRecord...
 
 
 Week 2
