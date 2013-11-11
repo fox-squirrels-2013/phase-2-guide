@@ -45,7 +45,7 @@ Solidify your learning from week 2.
   * I use AJAX to retrieve JSON from the server and then modify the page based on
    the JSON
   * I use MustacheJS or underscores templating library to convert JSON to HTML
-1. Challenge : [OO JS Racer](http://socrates.devbootcamp.com/challenges/297) **[JS Racer 1](http://socrates.devbootcamp.com/challenges/294) , [JS Racer 2](http://socrates.devbootcamp.com/challenges/295)
+1. Challenge : [OO JS Racer](http://socrates.devbootcamp.com/challenges/297) **[JS Racer 1](http://socrates.devbootcamp.com/challenges/294), [JS Racer 2](http://socrates.devbootcamp.com/challenges/295)
   * I can use jQuery to retrieve elements from the DOM using CSS selectors
   * I can use jQuery's [traversal methods](http://api.jquery.com/category/traversing/) to find elements relative to the given element
   * I can bind events to elements I've pulled from the DOM
