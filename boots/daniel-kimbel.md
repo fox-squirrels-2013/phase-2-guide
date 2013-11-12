@@ -1,10 +1,19 @@
+##11/11/2013
+
+| Coders Mindset              | Javascript                 | Testing  JS  | Debugging JS  | JS WebApps                 | Testing & TDD | Debugging | Ruby WebApps           | ActiveRecord          | HTML & CSS            |
+| --------------------------- | -------------------------- | -----------  | ------------- | -------------------------- | ------------- | --------- | ---------------------- | --------------------- | --------------------- |
+|   :+1: 7/8 :+1::+1: 1/8     |    :+1: 6/8 :+1::+1: 1/7   |  :+1: 0/4    |   :+1: 6/7    | :+1: 3/5 :+1::+1: 1/6      | :+1: 1/8      |   :+1: 4/8  | :+1: 3/6 :+1::+1: 2/7  | :+1: 5/8 :+1::+1: 1/4 | :+1: 5/6 :+1::+1: 1/4 |
+
+Recently, I've learned a good amount of Javascript and jQuery. I still have a long way to go when it comes to OO JS -- that's the main area that I want to improve in (along with testing). I'm feeling much more comfortable than I used to with event listeners, though.
+
+
 ##11/6/2013
 
 | Coders Mindset              | Javascript    | Testing  JS  | Debugging JS  | JS WebApps    |
 | --------------------------- | ------------- | -----------  | ------------- | ------------- |
 |   :+1: 7/8 :+1::+1: 1/8     |    :+1: 6/8   |  :+1: 0/4    |   :+1: 5/7    | :+1: 1/5      |
 
-Today, I learned a considerable amount about OO programming in Javascript. I know what a 'prototype' is now, to start with. I'm also picking up on how to use JS to work with clicks and keystrokes from within an HTML doc.
+I learned a decent amount of jQuery today, and got more practice writing backend code in Javascript. I also played around a little with using jQuery's animate function to manipulate the size of an image.
 
 
 ##11/5/2013
