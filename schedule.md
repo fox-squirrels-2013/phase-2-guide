@@ -36,10 +36,10 @@
 * 7:30 - LATE :  Optimize your learning
 
 ####Friday
-* 9:00 EI
-* 9:30 - 12:30 Pair on Challenges
+* 9:00 Check-ins
+* 11-12:30 Phase 3 Presentations
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
-* 3:00 [Retrospective]()
+* 4:00 Graduation
 * 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
