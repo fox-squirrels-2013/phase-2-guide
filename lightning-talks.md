@@ -18,6 +18,37 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 5. Notes for given talks listed below.
 
 ## Talks
+## Week 3:
+### Monday
+* [Group Project Presentations](lightning-talks/wk2_team_projects.md)
+
+### Wednesday
+* []() : by Brantley
+* []() : by Beni
+* []() : by Marion
+* []() : by Daniel
+* []() : by Daniel
+* []() : by Mark
+* []() : by Marc
+* []() : by Sherif
+
+### Thursday
+* []() : by Logan
+* []() : by Ben
+* []() : by Vanessa
+* []() : by Nicole
+* []() : by Brent
+* []() : by Tom
+* []() : by Tyler
+
+### Friday
+* []() : by Mike
+* []() : by Lindsey
+* []() : by Garreth
+* []() : by Louie
+* []() : by Mo
+* []() : by Dom
+* []() : by Miya
 
 ## Week 2: 
 ### Wednesday

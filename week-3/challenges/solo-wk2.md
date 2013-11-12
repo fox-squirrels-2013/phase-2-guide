@@ -37,7 +37,7 @@ Solidify your learning from week 2.
   * I can trigger events on elements I've pulled from the DOM
   * I use AJAX to retrieve JSON from the server and then modify the page based on the JSON
 
-1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)  **GITHUB REPO : **[Dynamic Todos](https://github.com/fox-squirrels-2013/CHALLENGE_dynamic_todos)
+1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)  **GITHUB REPO :** [Dynamic Todos](https://github.com/fox-squirrels-2013/CHALLENGE_dynamic_todos)
   * I use jQuery to implement Event Delegation with the `on` function
   * I separate my view concerns from my data verification concerns
   * I use AJAX to retrieve partials from the server and replace or append

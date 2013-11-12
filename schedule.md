@@ -8,15 +8,18 @@
 * 2:00 presentations : [Week 2 Team Project - Code Presentations](week-2/group-projects.md/#presentation)
 * 3:00 - 7:00 : Solo Challenges and Pair with Teachers.
 * 7:00 : Journal.
-* 7:30 - LATE : Optimize your learning []()
+* 7:30 - LATE : Optimize your learning * Late night prep: Read about the [twitter API](https://dev.twitter.com/).
 
 ####Tuesday
 * 9:00 EI
-* 9:30 - 12:30 Pair on Challenges.
-* 2:00 - 2:45 Lecture
+* 9:30 - 11:30 Pair on [Recent Tweets 1](http://socrates.devbootcamp.com/challenges/309) and [Recent Tweets 2](http://socrates.devbootcamp.com/challenges/310) and (if you have time) [Tweet Now! 1 : Single User](http://socrates.devbootcamp.com/challenges/313).  Start with the [Sinatra Skeleton MVC](https://github.com/fox-squirrels-2013/sinatra_skeleton_mvc)
+* 11:30-12:30 Lecture : API fun
+* 2:00 - 2:45 Lecture : JS Callbacks with Myles
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 6:00 - Mentor Night
 * 7:00 : Journal.
+* Late Night Prep: Read about [Oauth](http://en.wikipedia.org/wiki/OAuth) and watch the [Oauth Videos](http://www.youtube.com/user/davidrice000/videos)
+
 
 ####Wednesday
 * 9:00 EI
@@ -25,22 +28,23 @@
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
+* Late night prep : Read about [Making Your Own Gem](http://timelessrepo.com/making-ruby-gems) and [What is a Gem](http://guides.rubygems.org/what-is-a-gem/)
 
 ####Thursday
 * 9:00 EI
 * 9:30-12:30 Opt In Assessments
-* 9:30 - 12:30 Pair on Challenges
-* 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
-* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
+* 9:30 - 12:30 Pair on [Faker-light]() AND [Background-Jobs]()
+* 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
+* 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
 ####Friday
-* 9:00 EI
-* 9:30 - 12:30 Pair on Challenges
-* 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
-* 3:00 [Retrospective]()
-* 3:00 - 7:00 [Group Projects](week-2/group-projects.md)
+* 9:00 Check-ins
+* 11-12:30 Phase 3 Presentations
+* 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
+* 4:00 Graduation
+* 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
