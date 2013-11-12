@@ -1,11 +1,20 @@
 Coders Mindset	Testing & TDD	Debugging	Ruby Webapps	ActiveRecord	HTML & CSS
  :smile: 			:expressionless:			:smile:		:smile:				:smile:
 
-### 2013/11/06
+Week 1
 
-|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+|                                  | Coders Mindset | active recors | Testing  | Debugging  | Ruby Web Apps |
 | -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
-| :thumbsup:                       | 8/8            | 8/8             | 1/10       | 6/7          | 2/5             |
-| :thumbsup: :thumbsup:            | 8/8            | 1/7             |            | 1/5          | 0/6             |
-| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 0/5             |            | 0/3          | 0/5             |
+| :thumbsup:                       | 8/8            | 8/8             |  2/8       |  6/8          | 6/6             |
+| :thumbsup: :thumbsup:            | 7/8            | 3/4            |   0/8         | 6/8          | 6/7             |
+| :thumbsup: :thumbsup: :thumbsup: | 3/5            | 0/3             |   0/4        | 3/4          | 1/3             |
 
+
+
+Week 2
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|       8/8      |      8/8            |      NONE  |    7/7            |      5/5           |
+|       7/8      |      4/7            |            |    4/5          |         5/6        |
+|       3/5      |      1/5            |            |     2/3         |          3/5       |
