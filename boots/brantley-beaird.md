@@ -29,3 +29,6 @@ JS the Language :+1:
 Testing JS :+1:
 Debugging JS :+1:
 JS for Web Apps :+1:
+
+More coming later...
+Just need to practice JS more. Haven't done anything other than morning exercises with JS testing. The connections between HTML, Ruby, and JS is still solidifying, slowly but surely ;0)
