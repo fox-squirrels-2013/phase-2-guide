@@ -1,7 +1,7 @@
 # Group Projects
 1. [Learning Objectives](#learning-objectives)
 1. [Working Agreements](../working-agreements.md)
-1. [Team Assignments]()
+1. [Team Assignments](#teams)
 
 During week 3, you get to decide what you want to build within the following requirements:
 * You must use an api
