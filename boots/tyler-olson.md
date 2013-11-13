@@ -2,6 +2,13 @@
 
 <h2>Phase 2 Week 1 Learning Objectives To Do/Learn:</h2>
 
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | -----------zx- | -------------ZX-- |
+|       XXX         |      dx           |    xZ        |      X        |         zxx        |
+
+
+
 <h3>Tutorial &amp; Challenge Links</h3>
 <ul>
 	<li>Active Record and Sinatra: Propagating Validations - http://socrates.devbootcamp.com/challenges/398</li>
