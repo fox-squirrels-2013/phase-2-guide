@@ -23,7 +23,7 @@
 
 ####Wednesday
 * 9:00 EI
-* 9:30 -12:30 Pair on Challenges
+* 9:30 -12:30 Pair on [Twitter Oauth](https://github.com/fox-squirrels-2013/CHALLENGE_Twitter_Oauth) and [Oh My Auth! (Google)](http://socrates.devbootcamp.com/challenges/314)
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
