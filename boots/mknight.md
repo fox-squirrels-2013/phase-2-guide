@@ -4,6 +4,11 @@ https://github.com/fox-squirrels-2013/phase-2-guide/blob/master/week-1/learning-
 
 ********** Coders Mindset * Testing and TDD * Debugging * Ruby Webapps * ActiveRecord * HTML and CSS **********
 
+20131112: 6/10, 7/10, 5/10, 5/10, 1/10
+
+I'm pretty good at selecting CSS from the DOM but have never written any or done animation.
+I need more practice on everything, especially Javascript, Ajax, Active Record Associations amd Ruby Webapps.
+
 20131031: 3/10, 3/10, 3/10, 4/10, 3/10, 1/10
 
 Aha! The BCrypt password method replaces the active record attribute password in code which is used to compare the
