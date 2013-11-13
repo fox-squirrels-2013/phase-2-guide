@@ -1,11 +1,14 @@
 * 11/12/2013
 
-| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
-| -------------- | ------------- | --------- | ------------ | ------------ |
-|:+1::+1: 6/8|:+1::+1:5/7|:+1: 4/10|:+1::+1: 3/5|:+1::+1: 2/4|:+1: 3/5|
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|:+1: :+1: 7/8  |   :+1: 2/5     | :+1::+1: 6/8  | :+1::+1::+1: 3/4 | :+1::+1: 6/7 |
 
-Today was very fun.  While there was a lot of frustration, I'm surprised that I now know some of the basics in writing for another language.  My knowledge of Ruby has transferred over reasonably well to Javascript.  
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| :+1::+1::+1: 1/3 | :+1::+1::+1: 2/3  |:+1::+1::+1:2/5  |   :+1::+1: 4/5     |     :+1::+1: 2/4         |     :+1::+1::+1: 1/5           |
 
+I've been doing a lot of javascript and jquery with my js racer(or jousting game).  I feel much more comfortable with it now.
 
 
 * 11/05/2013
