@@ -112,7 +112,8 @@ Add more as you see fit and fix broken links (via pull request!)
 1. Codeschool: [Dev Tools Course](https://www.codeschool.com/courses/discover-devtools)
 1. [Debug with Node](http://nodejs.org/api/debugger.html)
 
-
+### API's
+1. [API Providers](https://apigee.com/providers) excellent resource to play with api's.
 
 
 
