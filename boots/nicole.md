@@ -108,3 +108,23 @@ Jasmine works.
 
 Today was better. While I hadn't flew through it, it was easy enough to get through the first release. I'll have to look 
 into how AJAX works, but I think I'm getting the hang of it slowly. 
+
+### 2013/11/11
+
+# Week 1:
+
+|                                  | Coders Mindset | Testing & TDD    | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+---------------------------------- | -------------- | ---------------- | --------- | ------------ | ------------ | ---------- |
+| :thumbsup:                       | 8/8            | 9/10             | 7/8       | 5/6          | 8/8          | 6/6        |
+| :thumbsup: :thumbsup:            | 8/8            | 7/10             | 5/8       | 2/7          | 2/4          | 4/4        |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 1.75/4           | 1/4       | 0/3          |  0/3         | 3/3        |
+
+
+# Week 2:
+
+|                                  | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------------------------- | -------------- | --------------- | ---------- | ------------ | --------------- |
+| :thumbsup:                       | 8/8            | 8/8             | 3/4        | 6/7          | 5/5             |
+| :thumbsup: :thumbsup:            | 8/8            | 6/7             | 3/4        | 2/5          | 3/6             |
+| :thumbsup: :thumbsup: :thumbsup: | 4/5            | 2.5/5           | 0/2        | 2/3          | 0/5             |
+
