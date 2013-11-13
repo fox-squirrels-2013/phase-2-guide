@@ -18,7 +18,7 @@
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 6:00 - Mentor Night
 * 7:00 : Journal.
-* Late Night Prep: Read about [Oauth](http://en.wikipedia.org/wiki/OAuth) and watch the [Oauth Videos](http://www.youtube.com/user/davidrice000/videos)
+* Late Night Prep: Read about [Oauth](http://en.wikipedia.org/wiki/OAuth) and watch the [Oauth Videos](http://www.youtube.com/user/davidrice000/videos) and read through [INTRODUCTION TO OAUTH (IN PLAIN ENGLISH)](http://blog.varonis.com/introduction-to-oauth/)
 
 
 ####Wednesday
