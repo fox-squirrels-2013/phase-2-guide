@@ -33,7 +33,7 @@
 ####Thursday
 * 9:00 EI
 * 9:30-12:30 [Optional Pairing Sessions](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
-* 9:30 - 12:30 Pair on [Faker-light]() AND finish up Oauth Challenges. 
+* 9:30 - 12:30 Pair on [Faker-light](week-3/challenges/faker-lite.md) AND finish up Oauth Challenges. 
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
