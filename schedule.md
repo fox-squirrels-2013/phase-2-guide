@@ -32,8 +32,8 @@
 
 ####Thursday
 * 9:00 EI
-* 9:30-12:30 Opt In Assessments
-* 9:30 - 12:30 Pair on [Faker-light]() AND [Background-Jobs]()
+* 9:30-12:30 [Optional Pairing Sessions](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+* 9:30 - 12:30 Pair on [Faker-light]() AND finish up Oauth Challenges. 
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
 * 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
 * 7:00 : Journal.
@@ -44,7 +44,7 @@
 * 11-12:30 Phase 3 Presentations
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
 * 4:00 Graduation
-* 3:00 - 5:00 [Group Projects](week-3/group-projects.md)
+* 10:00 - 5:00 [Group Projects](week-3/group-projects.md)
 * 5:00 Present Group Projects. 
 * 6:00 Look over your weekend work so you know what's in store.
 * 6:15 Join Phase 3 in celebrations. 
