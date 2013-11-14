@@ -23,14 +23,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * [Group Project Presentations](lightning-talks/wk2_team_projects.md)
 
 ### Wednesday
-* [Online Marketing](online_marketing_by_brantley.md) : by Brantley
-* [Nodes in the DOM](node_by_beni.md) : by Beni
-* [DOM Selection](dom_selection_by_marion.md) : by Marion
-* [Founders](founders_by_daniel.md) : by Daniel E
-* [jQuery Animate](cool_by_daniel.md) : by Daniel K
-* [Callbacks](callbacks_by_mark.md) : by Mark
-* [High Frequency Trading](high_frequency_trading_by_marc.md) : by Marc
-* [Firebase](firebase_by_sherif.md) : by Sherif
+* [Online Marketing](lightning-talks/online_marketing_by_brantley.md) : by Brantley
+* [Nodes in the DOM](lightning-talks/node_by_beni.md) : by Beni
+* [DOM Selection](lightning-talks/dom_selection_by_marion.md) : by Marion
+* [Founders](lightning-talks/founders_by_daniel.md) : by Daniel E
+* [jQuery Animate](lightning-talks/cool_by_daniel.md) : by Daniel K
+* [Callbacks](lightning-talks/callbacks_by_mark.md) : by Mark
+* [High Frequency Trading](lightning-talks/high_frequency_trading_by_marc.md) : by Marc
+* [Firebase](lightning-talks/firebase_by_sherif.md) : by Sherif
 
 ### Thursday
 * []() : by Logan
