@@ -44,12 +44,14 @@
 * 11-12:30 Phase 3 Presentations
 * 2:00 - 2:45 [Lightning Talks](lightning-talks.md)
 * 4:00 Graduation
-* 3:00 - 7:00 [Group Projects](week-3/group-projects.md)
-* 7:00 : Journal.
-* 7:30 - LATE :  Optimize your learning
+* 3:00 - 5:00 [Group Projects](week-3/group-projects.md)
+* 5:00 Present Group Projects. 
+* 6:00 Look over your weekend work so you know what's in store.
+* 6:15 Join Phase 3 in celebrations. 
+* 6:26 Back to work!
 
 ####Weekend
-* Do Prep for Phase 3 - See email from Shadi.
+**DOUBLE DOWN**, Buck-up, **Get Er Done** and complete the [Magic Menu]() application by **SUNDAY AT 5PM** .  Complete it on your own, but organize as a cohort and in accountability groups to make sure EVERYONE submits and learns. 
 
 
 ### Week 5: [Major Learning Objectives for this week](week-2/learning-objectives.md)
