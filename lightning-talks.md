@@ -33,13 +33,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * [Firebase](lightning-talks/firebase_by_sherif.md) : by Sherif
 
 ### Thursday
-* []() : by Logan
-* []() : by Ben
-* []() : by Vanessa
-* []() : by Nicole
-* []() : by Brent
-* []() : by Tom
-* []() : by Tyler
+* [Power Poses](lightning-talks/power_by_logan.md) : by Logan
+* [Painting and Encryption](lightning-talks/painting_by_ben.md) : by Ben
+* [Oauth Love Triangle](lightning-talks/oauth_love_triangle_by_vanessa.md) : by Vanessa
+* [Naming Gems](lightning-talks/naming_gems_by_nicole.md) : by Nicole
+* [Soylent](lightning-talks/something_by_brent.md) : by Brent (ie bit.ly)
+* [Instagram API](lightning-talks/instagram_by_tom.md) : by Tom
+* [Group Ruby](lightning-talks/group_ruby_by_tyler.md) : by Tyler
 
 ### Friday
 * []() : by Mike
