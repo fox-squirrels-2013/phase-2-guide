@@ -42,13 +42,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * [Group Ruby](lightning-talks/group_ruby_by_tyler.md) : by Tyler
 
 ### Friday
-* []() : by Mike
-* []() : by Lindsey
-* []() : by Garreth
-* []() : by Louie
-* []() : by Mo
-* []() : by Dom
-* []() : by Miya
+* [Lateral Thinking](lightning-talks/lateral_thinking_by_mike.md) : by Mike
+* [User Interface Design](lightning-talks/uid_by_lindsey.md) : by Lindsey
+* [Event Delegation](lightning-talks/event_delegation_by_garreth.md) : by Garreth
+* [Scheduled Jobs](lightning-talks/clocks_by_louie.md) : by Louie
+* [Fear](lightning-talks/blocking_by_mo.md) : by Mo
+* [IFFE (and other really unrelated stuff)](lightning-talks/iffe_by_dom.md) : by Dom
+* [Namespacing ](lightning-talks/namespacing_by_miya.md) : by Miya
 
 ## Week 2: 
 ### Wednesday
