@@ -51,7 +51,8 @@
 * 6:26 Back to work!
 
 ####Weekend
-**DOUBLE DOWN**, Buck-up, **Get Er Done** and complete the [Magic Menu]() application by **SUNDAY AT 5PM** .  Complete it on your own, but organize as a cohort and in accountability groups to make sure EVERYONE submits and learns. 
+* **DOUBLE DOWN**, Buck-up, **Get Er Done** and complete the [Magic Menu](https://github.com/fox-squirrels-2013/magic-menu) application by **SUNDAY AT 5PM** .  
+* Complete it on your own, but organize as a cohort and in accountability groups to make sure EVERYONE submits and learns. 
 
 
 ### Week 5: [Major Learning Objectives for this week](week-2/learning-objectives.md)
